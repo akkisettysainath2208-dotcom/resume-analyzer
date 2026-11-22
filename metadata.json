@@ -1,0 +1,8 @@
+{
+  "name": "AI Resume Analyzer & ATS Score Checker",
+  "description": "Compare your resume against a job description using Gemini to get an estimated match score, matched and missing skills, keyword gaps, and actionable improvement suggestions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
